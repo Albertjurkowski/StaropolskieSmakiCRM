@@ -1,0 +1,25 @@
+{
+  "name": "staropolskie-smaki-crm",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "next": "15.x",
+    "react": "18.x",
+    "react-dom": "18.x",
+    "firebase": "^9.x.x",
+    "firebase-admin": "^10.x.x"
+  },
+  "devDependencies": {
+    "typescript": "4.x",
+    "@types/react": "18.x",
+    "@types/node": "18.x",
+    "eslint": "8.x",
+    "eslint-config-next": "15.x"
+  }
+}
